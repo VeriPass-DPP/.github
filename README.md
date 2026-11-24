@@ -44,3 +44,19 @@ El sistema está desacoplado en tres repositorios principales bajo arquitectura 
        │                                                ├──► [IPFS / Pinata] (JSON-LD y Certificados CID)
        ▼                                                └──► [Redis 7] (Caché vista pública móvil)
 [Etiqueta QR GS1] ──(Escaneo Móvil / Inspector)──► [Resolvedor HTTP: text/html | application/ld+json]
+```
+
+---
+
+## 📚 Marco Normativo y Estándares de Referencia
+
+- **Reglamento (UE) 2024/1781 (ESPR):** Reglamento de diseño ecológico para productos sostenibles (Cap. III, Arts. 9–15 y Anexo III).
+- **Reglamento de Ejecución (UE) 2026/1778:** Funcionamiento del Registro Central europeo de Pasaportes Digitales de Producto.
+- **GS1 Digital Link (ISO/IEC 18975):** Identificación persistente y resolución web estándar.
+- **CIRPASS-2 / TracePath & UNTP:** Modelos semánticos abiertos (JSON Schema y JSON-LD) para interoperabilidad textil y de calzado.
+
+---
+
+## 👤 Autoría
+
+Proyecto diseñado y desarrollado por **José García** — *Trabajo de Fin de Ciclo en Desarrollo de Aplicaciones Web (DAW), 2026*.
